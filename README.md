@@ -1,10 +1,14 @@
-# tic tac toe
+# clj-tic-tac-toe
 
 Command line tic tac toe.
 
-## Building
+## Prerequisites
 
-Pre-Reqs: [leiningen](https://github.com/wdhowe/clojure-snippets#install-leiningen)
+You will need [Leiningen][] 2.0.0 or above installed.
+
+[leiningen]: https://github.com/technomancy/leiningen
+
+## Building
 
 * Clone the project
 * Build the uberjar
